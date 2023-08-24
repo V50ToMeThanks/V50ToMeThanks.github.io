@@ -1,2 +1,2 @@
 # V50ToMeThanks.github.io
-V50ToMe,Thanks!
+V50tome,thanks!
